@@ -1,0 +1,51 @@
+Source,/home/nicola/ownCloud/Projects/watch/watch.sch
+Kicad Rev,Eeschema 4.0.5+dfsg1-4
+Generated Date,Tue 25 Apr 2017 12:05:43 PM CEST
+
+Title,Not Set
+Company,Not Set
+Revision,Not Set
+Date Issue,Not Set
+
+Reference,Value,Library,Library Ref
+IC1,ATTINY85-S,atmel,ATTINY85-S
+Q1,Q_PMOS_DGS,device,Q_PMOS_DGS
+U6,WS2812B,ws2812b,WS2812B
+U5,WS2812B,ws2812b,WS2812B
+U4,WS2812B,ws2812b,WS2812B
+U3,WS2812B,ws2812b,WS2812B
+U2,WS2812B,ws2812b,WS2812B
+U1,WS2812B,ws2812b,WS2812B
+U12,WS2812B,ws2812b,WS2812B
+U11,WS2812B,ws2812b,WS2812B
+U10,WS2812B,ws2812b,WS2812B
+U9,WS2812B,ws2812b,WS2812B
+U8,WS2812B,ws2812b,WS2812B
+U7,WS2812B,ws2812b,WS2812B
+C1,1u,device,C
+C2,1u,device,C
+C3,1u,device,C
+C4,1u,device,C
+Y1,Crystal,device,Crystal
+U13,DS1337,ds1337,DS1337
+R5,500,device,R
+P1,BAT_CONN,conn,CONN_01X02
+C9,10n,device,C
+R3,3.3k,device,R
+R2,10k,device,R
+C5,1u,device,C
+C6,1u,device,C
+C7,1u,device,C
+C10,10n,device,C
+C11,4u7,device,C
+R6,4k7,device,R
+R4,4k7,device,R
+SW1,SW_Push,switches,SW_Push
+SW2,SW_Push,switches,SW_Push
+U14,MCP9800,mcp9800,MCP9800
+U16,LSM303DLHC,sensors,LSM303DLHC
+C13,4u7,device,C
+C12,220n,device,C
+U15,LP2982,regul,LP2985LV
+R1,56k,device,R
+C8,100n,device,C

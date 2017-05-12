@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name WS2812B)(type KiCad)(uri "$(KIPRJMOD)/ws2812b.pretty")(options "")(descr ""))
+  (lib (name button)(type KiCad)(uri "$(KIPRJMOD)/button.pretty")(options "")(descr ""))
+  (lib (name DFN4_1.5x1.3)(type KiCad)(uri "$(KIPRJMOD)/DFN4_1.5x1.3.pretty")(options "")(descr ""))
+  (lib (name VEML7700)(type KiCad)(uri "$(KIPRJMOD)/VEML7700.pretty")(options "")(descr ""))
+  (lib (name OPENHARDWARE)(type Legacy)(uri "$(KIPRJMOD)/OPENHARDWARE.mod")(options "")(descr ""))
+)
